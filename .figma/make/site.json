@@ -1,0 +1,10 @@
+{
+  "description": "Shop elegant women’s heels by style, discover new arrivals, and manage your cart and wishlist for a confident, convenient luxury footwear experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
